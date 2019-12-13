@@ -23,5 +23,7 @@
     "prettier": "^1.19.1",
     "sequelize-cli": "^5.5.1",
     "sucrase": "^3.10.1"
-  }
+  },
+  "repository": "https://github.com/brennoaq/Back-End_GoBarber.git",
+  "author": "brenno araujo queiroz <brennoaraujoqueiroz@gmail.com>"
 }
